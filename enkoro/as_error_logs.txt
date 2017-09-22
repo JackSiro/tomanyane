@@ -1,0 +1,8 @@
+
+2017-02-13 12:03:47 | DATABASE ERROR  | Query: SELECT * FROM as_complain_category  | Error: Table 'tujuane.as_complain_category' doesn't exist
+2017-02-13 12:04:18 | DATABASE ERROR  | Query: SELECT * FROM as_complain_category  | Error: Table 'tujuane.as_complain_category' doesn't exist
+2017-02-13 12:04:56 | DATABASE ERROR  | Query: SELECT * FROM as_complain_category  | Error: Table 'tujuane.as_complain_category' doesn't exist
+2017-03-25 23:28:33 | DATABASE ERROR  | Query: SELECT * FROM as_timetable_format WHERE formatid=  | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2017-03-26 19:44:57 | DATABASE ERROR  | Query: SELECT * FROM as_word WHERE wordid=  | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2017-03-26 19:46:36 | DATABASE ERROR  | Query: SELECT * FROM as_word WHERE wordid=  | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2017-03-26 19:47:56 | DATABASE ERROR  | Query: SELECT * FROM as_word WHERE wordid=  | Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
